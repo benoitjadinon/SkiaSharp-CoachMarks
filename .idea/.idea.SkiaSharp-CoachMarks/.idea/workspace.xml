@@ -1,0 +1,478 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e939d36c-69a7-496a-aada-26e8f9c52a4d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Droid/Resources/Resource.designer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Droid/Resources/Resource.designer.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Droid/SkiaSharp-CoachMarks.Droid.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Droid/SkiaSharp-CoachMarks.Droid.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SkiaSharp-CoachMarks/MyClass.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SkiaSharp-CoachMarks/SkiaSharp-CoachMarks.projitems" beforeDir="false" afterPath="$PROJECT_DIR$/SkiaSharp-CoachMarks/SkiaSharp-CoachMarks.projitems" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iOS/SkiaSharp-CoachMarks.iOS.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/iOS/SkiaSharp-CoachMarks.iOS.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iOS/ViewController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/iOS/ViewController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iOS/ViewController.designer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/iOS/ViewController.designer.cs" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="570319612">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="cs" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="C#" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="cs" value="31" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="C#" value="31" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="CoachMarks.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/SkiaSharp-CoachMarks/CoachMarks.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="141" column="39" selection-start-line="141" selection-start-column="39" selection-end-line="141" selection-end-column="39" />
+              <folding>
+                <marker date="1534206136691" expanded="false" signature="6:160" ph="..." />
+                <marker date="1534206136691" expanded="true" signature="248:8897" ph="{...}" />
+                <marker date="1534206136691" expanded="true" signature="283:377" ph="{...}" />
+                <marker date="1534206136691" expanded="true" signature="425:759" ph="{...}" />
+                <marker date="1534206136691" expanded="true" signature="479:594" ph="{...}" />
+                <marker date="1534206136691" expanded="true" signature="801:3921" ph="{...}" />
+                <marker date="1534206136691" expanded="true" signature="1051:1163" ph="{...}" />
+                <marker date="1534206136691" expanded="true" signature="1222:2861" ph="{...}" />
+                <marker date="1534206136691" expanded="true" signature="1300:2714" ph="{...}" />
+                <marker date="1534206136691" expanded="true" signature="2453:2695" ph="{...}" />
+                <marker date="1534206136691" expanded="true" signature="3022:3144" ph="{...}" />
+                <marker date="1534206136691" expanded="true" signature="3179:3323" ph="{...}" />
+                <marker date="1534206136691" expanded="true" signature="3397:3915" ph="{...}" />
+                <marker date="1534206136691" expanded="true" signature="3963:4045" ph="{...}" />
+                <marker date="1534206136691" expanded="true" signature="4104:4252" ph="{...}" />
+                <marker date="1534206136691" expanded="true" signature="4315:4810" ph="{...}" />
+                <marker date="1534206136691" expanded="true" signature="4488:4585" ph="{...}" />
+                <marker date="1534206136691" expanded="true" signature="4868:5366" ph="{...}" />
+                <marker date="1534206136691" expanded="true" signature="5009:5360" ph="{...}" />
+                <marker date="1534206136691" expanded="true" signature="5421:5765" ph="{...}" />
+                <marker date="1534206136691" expanded="true" signature="5503:5759" ph="{...}" />
+                <marker date="1534206136691" expanded="true" signature="5560:5749" ph="{...}" />
+                <marker date="1534206136691" expanded="true" signature="5822:7053" ph="{...}" />
+                <marker date="1534206136691" expanded="true" signature="5886:6046" ph="{...}" />
+                <marker date="1534206136691" expanded="true" signature="6268:6381" ph="{...}" />
+                <marker date="1534206136691" expanded="true" signature="6463:7047" ph="{...}" />
+                <marker date="1534206136691" expanded="true" signature="6509:7037" ph="{...}" />
+                <marker date="1534206136691" expanded="true" signature="7089:7603" ph="{...}" />
+                <marker date="1534206136691" expanded="true" signature="7539:7597" ph="{...}" />
+                <marker date="1534206136691" expanded="true" signature="7639:7686" ph="{...}" />
+                <marker date="1534206136691" expanded="true" signature="7729:8371" ph="{...}" />
+                <marker date="1534206136691" expanded="true" signature="7808:8058" ph="{...}" />
+                <marker date="1534206136691" expanded="true" signature="8142:8365" ph="{...}" />
+                <marker date="1534206136691" expanded="true" signature="8415:8895" ph="{...}" />
+                <marker date="1534206136691" expanded="true" signature="8495:8675" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SkiaSharp-CoachMarks.projitems" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SkiaSharp-CoachMarks/SkiaSharp-CoachMarks.projitems">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="143">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ViewController.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/iOS/ViewController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="559">
+              <caret line="45" selection-start-line="45" selection-end-line="45" />
+              <folding>
+                <marker date="1534204636516" expanded="false" signature="6:54" ph="..." />
+                <marker date="1534204636516" expanded="true" signature="89:1170" ph="{...}" />
+                <marker date="1534204636516" expanded="true" signature="150:1168" ph="{...}" />
+                <marker date="1534204636516" expanded="true" signature="240:260" ph="{...}" />
+                <marker date="1534204636516" expanded="true" signature="304:708" ph="{...}" />
+                <marker date="1534204636516" expanded="true" signature="770:967" ph="{...}" />
+                <marker date="1534204636516" expanded="true" signature="1024:1162" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>_bgPaint</find>
+      <find>textPaint</find>
+      <find>paint</find>
+      <find>scale</find>
+      <find>ReDraw</find>
+      <find>.scale</find>
+      <find>.sca</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/SkiaSharp-CoachMarks/CoachMarks.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/iOS/ViewController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Droid/MainActivity.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/iOS/ViewController.cs" />
+        <option value="$PROJECT_DIR$/SkiaSharp-CoachMarks/SkiaSharp-CoachMarks.projitems" />
+        <option value="$PROJECT_DIR$/SkiaSharp-CoachMarks/CoachMarks.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1920" />
+    <option name="y" value="23" />
+    <option name="width" value="1920" />
+    <option name="height" value="1177" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="SkiaSharp-CoachMarks (3 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="SkiaSharp-CoachMarks (3 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="SkiaSharp-CoachMarks" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="SkiaSharp-CoachMarks (3 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="SkiaSharp-CoachMarks.iOS" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="SkiaSharp-CoachMarks (3 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="SkiaSharp-CoachMarks.iOS" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="SkiaSharp-CoachMarks" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="SkiaSharp-CoachMarks (3 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="SkiaSharp-CoachMarks.iOS" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="ViewController.cs" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-file-system" value="false" />
+      </pane>
+      <pane id="FileSystemExplorer" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.github.izhangzhihao.rainbow.brackets.settings.RainbowConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Xamarin.iOS.iOS Default">
+    <configuration name="Android Default" type="XamarinAndroidProject" factoryName="Xamarin.Android">
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Droid/SkiaSharp-CoachMarks.Droid.csproj" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="DEPLOY_BEHAVIOUR_NAME" value="Default" />
+      <option name="DEPLOY_TARGET_BEHAVIOUR_NAME" value="Ask" />
+      <option name="DEFAULT_EMULATOR_TO_RUN" value="" />
+      <option name="DEFAULT_DEVICE_TO_RUN" value="" />
+    </configuration>
+    <configuration name="iOS Default" type="XamarinIOSProject" factoryName="Xamarin.iOS">
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/iOS/SkiaSharp-CoachMarks.iOS.csproj" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="DEFAULT_IPHONE_DEVICE" value="" />
+      <option name="DEFAULT_IPHONE_SIMULATOR" value="" />
+      <option name="DEPLOY_TARGET_BEHAVIOUR_NAME" value="Simulator" />
+    </configuration>
+    <list>
+      <item itemvalue="Xamarin.Android.Android Default" />
+      <item itemvalue="Xamarin.iOS.iOS Default" />
+    </list>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e939d36c-69a7-496a-aada-26e8f9c52a4d" name="Default Changelist" comment="" />
+      <created>1534200707247</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1534200707247</updated>
+      <workItem from="1534200709797" duration="593000" />
+      <workItem from="1534201352257" duration="4725000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="5318000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1920" y="23" width="1920" height="1177" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Unit Tests" order="7" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="NuGet" order="7" weight="0.24030274" />
+      <window_info anchor="bottom" id="Change Signature" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2550586" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Build" weight="0.32923368" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39924315" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/SkiaSharp-CoachMarks/CoachMarks.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2301">
+          <caret line="185" column="5" selection-start-line="185" selection-start-column="5" selection-end-line="185" selection-end-column="5" />
+          <folding>
+            <marker date="1534206136691" expanded="false" signature="6:160" ph="..." />
+            <marker date="1534206136691" expanded="true" signature="248:8897" ph="{...}" />
+            <marker date="1534206136691" expanded="true" signature="283:377" ph="{...}" />
+            <marker date="1534206136691" expanded="true" signature="425:759" ph="{...}" />
+            <marker date="1534206136691" expanded="true" signature="479:594" ph="{...}" />
+            <marker date="1534206136691" expanded="true" signature="801:3921" ph="{...}" />
+            <marker date="1534206136691" expanded="true" signature="1051:1163" ph="{...}" />
+            <marker date="1534206136691" expanded="true" signature="1222:2861" ph="{...}" />
+            <marker date="1534206136691" expanded="true" signature="1300:2714" ph="{...}" />
+            <marker date="1534206136691" expanded="true" signature="2453:2695" ph="{...}" />
+            <marker date="1534206136691" expanded="true" signature="3022:3144" ph="{...}" />
+            <marker date="1534206136691" expanded="true" signature="3179:3323" ph="{...}" />
+            <marker date="1534206136691" expanded="true" signature="3397:3915" ph="{...}" />
+            <marker date="1534206136691" expanded="true" signature="3963:4045" ph="{...}" />
+            <marker date="1534206136691" expanded="true" signature="4104:4252" ph="{...}" />
+            <marker date="1534206136691" expanded="true" signature="4315:4810" ph="{...}" />
+            <marker date="1534206136691" expanded="true" signature="4488:4585" ph="{...}" />
+            <marker date="1534206136691" expanded="true" signature="4868:5366" ph="{...}" />
+            <marker date="1534206136691" expanded="true" signature="5009:5360" ph="{...}" />
+            <marker date="1534206136691" expanded="true" signature="5421:5765" ph="{...}" />
+            <marker date="1534206136691" expanded="true" signature="5503:5759" ph="{...}" />
+            <marker date="1534206136691" expanded="true" signature="5560:5749" ph="{...}" />
+            <marker date="1534206136691" expanded="true" signature="5822:7053" ph="{...}" />
+            <marker date="1534206136691" expanded="true" signature="5886:6046" ph="{...}" />
+            <marker date="1534206136691" expanded="true" signature="6268:6381" ph="{...}" />
+            <marker date="1534206136691" expanded="true" signature="6463:7047" ph="{...}" />
+            <marker date="1534206136691" expanded="true" signature="6509:7037" ph="{...}" />
+            <marker date="1534206136691" expanded="true" signature="7089:7603" ph="{...}" />
+            <marker date="1534206136691" expanded="true" signature="7539:7597" ph="{...}" />
+            <marker date="1534206136691" expanded="true" signature="7639:7686" ph="{...}" />
+            <marker date="1534206136691" expanded="true" signature="7729:8371" ph="{...}" />
+            <marker date="1534206136691" expanded="true" signature="7808:8058" ph="{...}" />
+            <marker date="1534206136691" expanded="true" signature="8142:8365" ph="{...}" />
+            <marker date="1534206136691" expanded="true" signature="8415:8895" ph="{...}" />
+            <marker date="1534206136691" expanded="true" signature="8495:8675" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Droid/MainActivity.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+          <folding>
+            <marker date="1534200463055" expanded="false" signature="6:58" ph="..." />
+            <marker date="1534200463055" expanded="true" signature="95:762" ph="{...}" />
+            <marker date="1534200463055" expanded="true" signature="229:760" ph="{...}" />
+            <marker date="1534200463055" expanded="true" signature="327:754" ph="{...}" />
+            <marker date="1534200463055" expanded="true" signature="509:593" ph="/* Get our button from the layout resource, ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Droid/MainActivity.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+          <folding>
+            <marker date="1534200463055" expanded="false" signature="6:58" ph="..." />
+            <marker date="1534200463055" expanded="true" signature="95:762" ph="{...}" />
+            <marker date="1534200463055" expanded="true" signature="229:760" ph="{...}" />
+            <marker date="1534200463055" expanded="true" signature="327:754" ph="{...}" />
+            <marker date="1534200463055" expanded="true" signature="509:593" ph="/* Get our button from the layout resource, ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/iOS/LaunchScreen.storyboard">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file:///Library/Frameworks/Mono.framework/Versions/5.10.1/lib/mono/msbuild/15.0/bin/Roslyn/Microsoft.CSharp.Core.targets">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="83" column="4" selection-start-line="83" selection-start-column="4" selection-end-line="83" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SkiaSharp-CoachMarks/SkiaSharp-CoachMarks.projitems">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/iOS/ViewController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="559">
+          <caret line="45" selection-start-line="45" selection-end-line="45" />
+          <folding>
+            <marker date="1534204636516" expanded="false" signature="6:54" ph="..." />
+            <marker date="1534204636516" expanded="true" signature="89:1170" ph="{...}" />
+            <marker date="1534204636516" expanded="true" signature="150:1168" ph="{...}" />
+            <marker date="1534204636516" expanded="true" signature="240:260" ph="{...}" />
+            <marker date="1534204636516" expanded="true" signature="304:708" ph="{...}" />
+            <marker date="1534204636516" expanded="true" signature="770:967" ph="{...}" />
+            <marker date="1534204636516" expanded="true" signature="1024:1162" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SkiaSharp-CoachMarks/CoachMarks.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="141" column="39" selection-start-line="141" selection-start-column="39" selection-end-line="141" selection-end-column="39" />
+          <folding>
+            <marker date="1534206136691" expanded="false" signature="6:160" ph="..." />
+            <marker date="1534206136691" expanded="true" signature="248:8897" ph="{...}" />
+            <marker date="1534206136691" expanded="true" signature="283:377" ph="{...}" />
+            <marker date="1534206136691" expanded="true" signature="425:759" ph="{...}" />
+            <marker date="1534206136691" expanded="true" signature="479:594" ph="{...}" />
+            <marker date="1534206136691" expanded="true" signature="801:3921" ph="{...}" />
+            <marker date="1534206136691" expanded="true" signature="1051:1163" ph="{...}" />
+            <marker date="1534206136691" expanded="true" signature="1222:2861" ph="{...}" />
+            <marker date="1534206136691" expanded="true" signature="1300:2714" ph="{...}" />
+            <marker date="1534206136691" expanded="true" signature="2453:2695" ph="{...}" />
+            <marker date="1534206136691" expanded="true" signature="3022:3144" ph="{...}" />
+            <marker date="1534206136691" expanded="true" signature="3179:3323" ph="{...}" />
+            <marker date="1534206136691" expanded="true" signature="3397:3915" ph="{...}" />
+            <marker date="1534206136691" expanded="true" signature="3963:4045" ph="{...}" />
+            <marker date="1534206136691" expanded="true" signature="4104:4252" ph="{...}" />
+            <marker date="1534206136691" expanded="true" signature="4315:4810" ph="{...}" />
+            <marker date="1534206136691" expanded="true" signature="4488:4585" ph="{...}" />
+            <marker date="1534206136691" expanded="true" signature="4868:5366" ph="{...}" />
+            <marker date="1534206136691" expanded="true" signature="5009:5360" ph="{...}" />
+            <marker date="1534206136691" expanded="true" signature="5421:5765" ph="{...}" />
+            <marker date="1534206136691" expanded="true" signature="5503:5759" ph="{...}" />
+            <marker date="1534206136691" expanded="true" signature="5560:5749" ph="{...}" />
+            <marker date="1534206136691" expanded="true" signature="5822:7053" ph="{...}" />
+            <marker date="1534206136691" expanded="true" signature="5886:6046" ph="{...}" />
+            <marker date="1534206136691" expanded="true" signature="6268:6381" ph="{...}" />
+            <marker date="1534206136691" expanded="true" signature="6463:7047" ph="{...}" />
+            <marker date="1534206136691" expanded="true" signature="6509:7037" ph="{...}" />
+            <marker date="1534206136691" expanded="true" signature="7089:7603" ph="{...}" />
+            <marker date="1534206136691" expanded="true" signature="7539:7597" ph="{...}" />
+            <marker date="1534206136691" expanded="true" signature="7639:7686" ph="{...}" />
+            <marker date="1534206136691" expanded="true" signature="7729:8371" ph="{...}" />
+            <marker date="1534206136691" expanded="true" signature="7808:8058" ph="{...}" />
+            <marker date="1534206136691" expanded="true" signature="8142:8365" ph="{...}" />
+            <marker date="1534206136691" expanded="true" signature="8415:8895" ph="{...}" />
+            <marker date="1534206136691" expanded="true" signature="8495:8675" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
