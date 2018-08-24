@@ -11,28 +11,15 @@ namespace SkiaSharpCoachMarks.iOS
         public ViewController(IntPtr handle) : base(handle)
         {
         }
-
-        public override void ViewDidLoad()
-        {
-            base.ViewDidLoad();
-
-            // Perform any additional setup after loading the view, typically from a nib.
-            Button.AccessibilityIdentifier = "myButton";
-            Button.TouchUpInside += delegate
-            {
-                var title = string.Format("{0} clicks!", count++);
-                Button.SetTitle(title, UIControlState.Normal);
-            };
-        }
         
         public override void ViewDidLayoutSubviews()
         {
             base.ViewDidLayoutSubviews();
 
             new CoachMarks()
-                .Create()
+                .Create(bgColor:0x88000000)
                 .Add(Button.WindowPosition(), "test")
-                .Show();
+                .Show(this);
         }
 
 
