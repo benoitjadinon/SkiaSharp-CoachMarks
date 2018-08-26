@@ -1,9 +1,7 @@
 
-iOS
+###iOS
 
 ```csharp
-using SkiaSharp.CoachMarks;
-
 public override void ViewDidLayoutSubviews()
 {
     base.ViewDidLayoutSubviews();
@@ -14,11 +12,9 @@ public override void ViewDidLayoutSubviews()
 }
 ```
 
-Android
+###Android
 
 ```csharp
-using SkiaSharp.CoachMarks;
-
 public override void OnWindowFocusChanged(bool hasFocus)
 {
     base.OnWindowFocusChanged(hasFocus);
@@ -29,7 +25,7 @@ public override void OnWindowFocusChanged(bool hasFocus)
 }
 ```
 
-ViewModel
+###ViewModel
 
 ```csharp
 public CoachMarksInstance CoachMarks { get; } 
@@ -38,10 +34,10 @@ public CoachMarksInstance CoachMarks { get; }
 
 public string SomeText { get; } = "test";
 
-// also, to avoid putting text references inside views,
+// also, to avoid duplicating text references inside views,
 // use the extension method inside view controllers
 //    viewModel.AddButton(myButton.WindowPosition());
-// makes the view code copy-pastable
+// it makes the view code copy-pastable through platforms
 public void AddButton(SKRect rect)
 	=> CoachMarks.Add(rect, SomeText);
 
