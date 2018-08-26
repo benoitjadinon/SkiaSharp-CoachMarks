@@ -32,7 +32,7 @@ public override void OnWindowFocusChanged(bool hasFocus)
 ViewModel
 
 ```csharp
-public CoachMarks CoachMarks { get; } 
+public CoachMarksInstance CoachMarks { get; } 
     = new CoachMarks()
         .Create(bgColor:0x88000000);
 
