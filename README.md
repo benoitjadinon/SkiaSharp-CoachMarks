@@ -37,4 +37,12 @@ public CoachMarksInstance CoachMarks { get; }
         .Create(bgColor:0x88000000);
 
 public string SomeText { get; } = "test";
+
+// also, to avoid putting text references inside views,
+// use the extension method inside view controllers
+//    viewModel.AddButton(myButton.WindowPosition());
+// makes the view code copy-pastable
+public void AddButton(SKRect rect)
+	=> CoachMarks.Add(rect, SomeText);
+
 ```
