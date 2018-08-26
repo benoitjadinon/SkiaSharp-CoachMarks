@@ -4,7 +4,7 @@ using System.Drawing;
 using SkiaSharp;
 #if __IOS__
 using UIKit;
-using NativeView = UIKit.UIButton;
+using NativeView = UIKit.UIView;
 using NativeRect = CoreGraphics.CGRect;
 using NativeRoot = UIKit.UIViewController;
 using SkiaSharp.Views.iOS;
@@ -84,7 +84,7 @@ namespace SkiaSharp.CoachMarks
                 _skiaCanvasView.UserInteractionEnabled = true;
                 _skiaCanvasView.AddGestureRecognizer (new UITapGestureRecognizer(_onTouch ?? _skiaCanvasView.RemoveFromSuperview));
 #elif __ANDROID__
-                var rootView = ((ViewGroup) (root.Window.DecorView.RootView));
+                var rootView = (ViewGroup) root.Window.DecorView.RootView;
                 
                 _skiaCanvasView = new SKCanvasView(root);
                 _skiaCanvasView.Touch += ((sender, args) =>
@@ -96,6 +96,7 @@ namespace SkiaSharp.CoachMarks
                 
                 rootView.AddView(_skiaCanvasView, new ViewGroup.LayoutParams(ViewGroup.LayoutParams.MatchParent, ViewGroup.LayoutParams.MatchParent));
 #endif
+                
                 _skiaCanvasView.PaintSurface += (sender, e) =>
                 {
                     var canvas = e.Surface.Canvas;
