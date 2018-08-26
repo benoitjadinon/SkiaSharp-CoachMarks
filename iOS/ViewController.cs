@@ -18,7 +18,7 @@ namespace SkiaSharpCoachMarks.iOS
 
             new CoachMarks()
                 .Create(bgColor:0x88000000)
-                .Add(Button.WindowPosition(), "test")
+                .Add(Button, "test")
                 .Show(this);
         }
 

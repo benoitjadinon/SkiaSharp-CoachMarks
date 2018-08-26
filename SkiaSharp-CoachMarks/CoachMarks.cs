@@ -1,7 +1,5 @@
 using System;
 using System.Collections.Generic;
-using System.Drawing;
-using SkiaSharp;
 #if __IOS__
 using UIKit;
 using NativeView = UIKit.UIView;
@@ -14,7 +12,6 @@ using NativeView = Android.Views.View;
 using NativeRect = Android.Graphics.Rect;
 using NativeRoot = Android.App.Activity;
 using SkiaSharp.Views.Android;
-using Android.App;
 using Android.Views;
 #endif
 
@@ -96,7 +93,7 @@ namespace SkiaSharp.CoachMarks
                 
                 rootView.AddView(_skiaCanvasView, new ViewGroup.LayoutParams(ViewGroup.LayoutParams.MatchParent, ViewGroup.LayoutParams.MatchParent));
 #endif
-                
+
                 _skiaCanvasView.PaintSurface += (sender, e) =>
                 {
                     var canvas = e.Surface.Canvas;
@@ -111,9 +108,12 @@ namespace SkiaSharp.CoachMarks
             return this;
         }
 
-        public CoachMarksInstance Add(SKRect rect, string text, CoachMarkPosition textPosition = null)
+        public CoachMarksInstance Add(NativeView view, string text, CoachMarkPosition textPosition = null) 
+            => Add(view.WindowPosition(), text, textPosition);
+
+        public CoachMarksInstance Add(SKRect viewRect, string text, CoachMarkPosition textPosition = null)
         {
-            this.Marks.Add(new TextBaseCoachMark(rect, text, textPosition));
+            Marks.Add(new TextBaseCoachMark(viewRect, text, textPosition));
             return this;
         }
 
@@ -141,7 +141,7 @@ namespace SkiaSharp.CoachMarks
             canvas.DrawRect(0, 0, size.Width, size.Height, _bgPaint);
 
             // mark texts
-            foreach (var mark in this.Marks)
+            foreach (var mark in Marks)
                 mark.Draw(canvas, mark.Rect.Scale(scale), scale);
         }
     }

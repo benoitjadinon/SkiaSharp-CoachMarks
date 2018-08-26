@@ -28,7 +28,7 @@ namespace SkiaSharpCoachMarks.Droid
 
             new CoachMarks()
                 .Create(bgColor:0x88000000)
-                .Add(button.WindowPosition(), "test")
+                .Add(button, "test")
                 .Show(this);
         }
     }
