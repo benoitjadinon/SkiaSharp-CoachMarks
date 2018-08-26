@@ -1,5 +1,5 @@
 
-###iOS
+### iOS
 
 ```csharp
 public override void ViewDidLayoutSubviews()
@@ -12,7 +12,7 @@ public override void ViewDidLayoutSubviews()
 }
 ```
 
-###Android
+### Android
 
 ```csharp
 public override void OnWindowFocusChanged(bool hasFocus)
@@ -25,7 +25,7 @@ public override void OnWindowFocusChanged(bool hasFocus)
 }
 ```
 
-###ViewModel
+### ViewModel
 
 ```csharp
 public CoachMarksInstance CoachMarks { get; } 
